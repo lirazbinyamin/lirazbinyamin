@@ -1,9 +1,9 @@
 
-![MasterHead](https://e0.pxfuel.com/wallpapers/1/528/desktop-wallpaper-linkedin-background-linkedin.jpg)
+![MasterHead](https://blog.kakaocdn.net/dn/CCasK/btqE3fevs3c/ldAR8EggwGfKOEvMkKFkhK/img.jpg)
 
 <h1 align="center">Hi 👋, I'm Liraz Binyamin</h1>
 <h3 align="center">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align=“right” alt=“Coding” width=“400” src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 - 🌱 I’m currently studying **Computer Science in The Open University of Israel**
 
