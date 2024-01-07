@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently studying **Computer Science in The Open University of Israel**
 
-- 👨‍💻 Check out my recent assembly project at [https://github.com/lirazbinyamin](https://github.com/lirazbinyamin](https://github.com/lirazbinyamin/Assembler))
+- 👨‍💻 Check out my recent assembly project at [https://github.com/lirazbinyamin/Assembler](https://github.com/lirazbinyamin/Assembler))
 
 - 📫 How to reach me **lirazbinyamin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/liraz binyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liraz binyamin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/liraz-binyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liraz binyamin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/liraz_binyamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liraz_binyamin" height="30" width="40" /></a>
 </p>
 
