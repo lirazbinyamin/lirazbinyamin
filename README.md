@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Liraz Binyamin</h1>
 <h3 align="center">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
 
-- 🌱 I’m currently pursuing my bachelor's degree **Computer Science in The Open University of Israel**
+- 🌱 I’m currently pursuing my **bachelor's degree in Computer Science in The Open University of Israel**
 
 - 👨‍💻 Check out my recent Assembler project at [https://github.com/lirazbinyamin/Assembler](https://github.com/lirazbinyamin/Assembler)
 
