@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying **Computer Science in The Open University of Israel**
 
-- 👨‍💻 Check out my recent assembly project at [https://github.com/lirazbinyamin/Assembler](https://github.com/lirazbinyamin/Assembler))
+- 👨‍💻 Check out my recent assembly project at [https://github.com/lirazbinyamin/Assembler](https://github.com/lirazbinyamin/Assembler)
 
 - 📫 How to reach me **lirazbinyamin@gmail.com**
 
