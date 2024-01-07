@@ -3,17 +3,17 @@
 
 <h1 align="center">Hi 👋, I'm Liraz Binyamin</h1>
 <h3 align="center">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
-<img align=“right” alt=“Coding” width=“400” src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align=“right” alt=“Coding” width=“400” src=https://cdn.dribbble.com/users/1803678/screenshots/3652824/media/ec8d4b3c350813be65b1711a528c5143.gif>
 
 - 🌱 I’m currently studying **Computer Science in The Open University of Israel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lirazbinyamin](https://github.com/lirazbinyamin)
+- 👨‍💻 Check out my recent assembly project at [https://github.com/lirazbinyamin](https://github.com/lirazbinyamin](https://github.com/lirazbinyamin/Assembler))
 
 - 📫 How to reach me **lirazbinyamin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/liraz binyamin](https://www.linkedin.com/in/liraz-binyamin)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liraz binyamin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/liraz binyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liraz binyamin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/liraz_binyamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liraz_binyamin" height="30" width="40" /></a>
 </p>
 
