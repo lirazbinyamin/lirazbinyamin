@@ -8,12 +8,14 @@
   
 - 📫 How to reach me **lirazbinyamin@gmail.com**
 
-<h1 align="left">👨‍💻 Software Development Projects:</h1>
-<h3 align="left">C:</h3>
-bla
-<h3 align="left">Java:</h3>
-bla
+<h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>(C)</b>
+  - <a href="https://github.com/lirazbinyamin/My-Assembly"> Assembler</a>
+
+- <b>(Java)</b>
+  - <a href="https://github.com/lirazbinyamin/My-Assembly">User thread library</a>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/liraz-binyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liraz binyamin" height="30" width="40" /></a>
