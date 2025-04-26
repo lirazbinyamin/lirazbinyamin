@@ -1,8 +1,8 @@
 
 ![MasterHead](https://cdn.dribbble.com/users/1803678/screenshots/3652824/media/ec8d4b3c350813be65b1711a528c5143.gif)
 
-<h1 align="center">Hi 👋, I'm Liraz Binyamin</h1>
-<h3 align="center">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
+<h1 align="left">Hi 👋, I'm Liraz Binyamin</h1>
+<h3 align="left">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
 
 - 👨‍💻 I’m currently pursuing my bachelor's degree in **Computer Science in The Open University of Israel**
 
