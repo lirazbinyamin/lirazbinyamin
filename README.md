@@ -17,6 +17,7 @@
   - <a href="https://github.com/lirazbinyamin/Calendar">Calendar </a>
   - <a href="https://github.com/lirazbinyamin/HangMan-Game">HangMan game</a>
   - <a href="https://github.com/lirazbinyamin/Game-of-Life">Game of Life</a>
+  - <a href="https://github.com/lirazbinyamin/Bank-Account">Bank Account Simulation</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
