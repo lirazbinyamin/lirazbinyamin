@@ -5,8 +5,10 @@
 <h3 align="left">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
 
 - 👨‍💻 I’m currently pursuing my bachelor's degree in **Computer Science in The Open University of Israel**
-
+  
 - 📫 How to reach me **lirazbinyamin@gmail.com**
+
+<h1 align="left">👨‍💻 Software Development Projects:</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
