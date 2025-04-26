@@ -14,9 +14,9 @@
   - <a href="https://github.com/lirazbinyamin/My-Assembly"> Assembler</a>
 
 - <b>(Java && JavaFX)</b>
-  - <a href="">Calendar </a>
-  - <a href="">HangMan game</a>
-  - <a href="">Game of Life</a>
+  - <a href="https://github.com/lirazbinyamin/Calendar">Calendar </a>
+  - <a href="https://github.com/lirazbinyamin/HangMan-Game">HangMan game</a>
+  - <a href="https://github.com/lirazbinyamin/Game-of-Life">Game of Life</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
