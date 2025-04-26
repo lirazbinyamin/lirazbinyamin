@@ -8,7 +8,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>(Java)</b>
-  - <a href="https://github.com/lirazbinyamin/Bank-Account">Bank Account Simulation</a>
+  - <a href="https://github.com/lirazbinyamin/Bank-Account">Bank Account Simulator </a>
   - <a href="https://github.com/lirazbinyamin/Calendar">Calendar App </a>
   - <a href="https://github.com/lirazbinyamin/HangMan-Game">HangMan Game</a>
   - <a href="https://github.com/lirazbinyamin/Game-of-Life">Game of Life</a>
