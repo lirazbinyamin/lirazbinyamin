@@ -9,6 +9,10 @@
 - 📫 How to reach me **lirazbinyamin@gmail.com**
 
 <h1 align="left">👨‍💻 Software Development Projects:</h1>
+<h3 align="left">C:</h3>
+bla
+<h3 align="left">Java:</h3>
+bla
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
