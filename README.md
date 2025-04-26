@@ -12,7 +12,7 @@
   - <a href="https://github.com/lirazbinyamin/HangMan-Game">HangMan Game</a>
   - <a href="https://github.com/lirazbinyamin/Trivia-Game">Trivia Game </a>
   - <a href="https://github.com/lirazbinyamin/Bank-Account">Bank Account Simulator </a>
-  - <a href="https://github.com/lirazbinyamin/Game-of-Life">Game of Life</a>
+
   
   
 - <b>(C)</b>
