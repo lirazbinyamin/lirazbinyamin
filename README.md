@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Liraz Binyamin</h1>
 <h3 align="left">A passionate Computer Science student from Israel, lives in Los Angeles, California.</h3>
+<h2>About me:</h2>
+I'm open to work!  
 
 - 👨‍💻 I’m currently pursuing my bachelor's degree in **Computer Science in The Open University of Israel**
   
