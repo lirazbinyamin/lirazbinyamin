@@ -13,7 +13,7 @@
 - <b>(C)</b>
   - <a href="https://github.com/lirazbinyamin/My-Assembly"> Assembler</a>
 
-- <b>(Java && JavaFX)</b>
+- <b>(Java)</b>
   - <a href="https://github.com/lirazbinyamin/Calendar">Calendar </a>
   - <a href="https://github.com/lirazbinyamin/HangMan-Game">HangMan game</a>
   - <a href="https://github.com/lirazbinyamin/Game-of-Life">Game of Life</a>
