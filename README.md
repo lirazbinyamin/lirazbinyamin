@@ -14,7 +14,6 @@ I'm open to work, looking to find my next challenge!
   - <a href="https://github.com/lirazbinyamin/Calendar">Calendar </a>
   - <a href="https://github.com/lirazbinyamin/HangMan-Game">HangMan Game</a>
   - <a href="https://github.com/lirazbinyamin/Trivia-Game">Trivia Game </a>
-  - <a href="https://github.com/lirazbinyamin/Bank-Account">Bank Account Simulator </a>
 
   
   
